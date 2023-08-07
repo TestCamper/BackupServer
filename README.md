@@ -40,5 +40,5 @@ __Kits Processador + Memoria RAM + Placa mãe**__
 >
 > **Placa mãe omitida no campo "Componente" 
 
-** Último valor desde a data da pesquisa, os precos podem se alterar conforme disponibilidade e promoções 
+* Último valor desde a data da pesquisa, os precos podem se alterar conforme disponibilidade e promoções 
 
